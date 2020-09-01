@@ -1,3 +1,4 @@
+package com.example.Weather;
 import java.util.List;
 
 import org.springframework.boot.web.client.RestTemplateBuilder;

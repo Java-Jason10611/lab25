@@ -1,3 +1,4 @@
+package com.example.Weather;
 import java.util.List;
 
 public class Weather {

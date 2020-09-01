@@ -16,5 +16,6 @@
 		<var>${text.get(0)}</var>
 	</c:forEach>
 	</div>
+	<a href="/">back to home</a>
 </body>
 </html>
